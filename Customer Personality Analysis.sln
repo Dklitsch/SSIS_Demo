@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Customer Personality Analysis", "Customer Personality Analysis\Customer Personality Analysis.dtproj", "{39F8BE85-2480-4A63-B9B3-DFEC4D8580B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39F8BE85-2480-4A63-B9B3-DFEC4D8580B2}.Development|Default.ActiveCfg = Development
+		{39F8BE85-2480-4A63-B9B3-DFEC4D8580B2}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D6EAAB3-B453-4CB9-B001-1C5325269E90}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DropAllCustomerPersonalityTables.sql"
+  DTS:DTSID="{D4FBF60A-F93A-4E4D-AA06-17FF7A650862}"
+  DTS:CreationName="FILE">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="C:\Users\D\Documents\SQL Server Management Studio\DropAllCustomerPersonalityTables.sql" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

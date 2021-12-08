@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="CreateCustomerPersonalityTables.sql"
+  DTS:DTSID="{8851F055-F72A-4180-A74B-AB0CF4B400AD}"
+  DTS:CreationName="FILE">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="C:\Users\D\source\repos\Customer Personality Analysis\Customer Personality Analysis\SQL\CreateCustomerPersonalityTables.sql" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
